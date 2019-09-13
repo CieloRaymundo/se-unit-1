@@ -1,11 +1,39 @@
  header{
      background-color: #eeeeee;
+     margin:0;
+     text-align:center;
+     padding-top:60px;
+     padding-bottom:20px;
  }
  
- main{
+section{
      background-color: #eeeeee;
+     margin:0;
  }
- 
+
+section div{
+    text-align:center;
+    background-color:white;
+    width:1303px;
+    padding-left: 138px;
+    padding-right: 138px;
+}
+section ul{
+
+}
  footer{
      background-color: #eeeeee;
+     margin:0;
+ }
+ 
+ header h1  {
+     margin:0;
+ }
+ 
+  header h3  {
+     margin:0;
+ }
+ 
+ footer h2{
+     margin:0;
  }
