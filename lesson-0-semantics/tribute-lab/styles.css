@@ -1,39 +1,87 @@
- header{
-     background-color: #eeeeee;
-     margin:0;
-     text-align:center;
-     padding-top:60px;
-     padding-bottom:20px;
- }
- 
-section{
-     background-color: #eeeeee;
-     margin:0;
- }
+main {
+ background-color: #eeeeee;
+}
 
-section div{
-    text-align:center;
-    background-color:white;
-    width:1303px;
-    padding-left: 138px;
-    padding-right: 138px;
+header{
+ text-align: center;
+ margin-top:0;
+ padding-top: 10px;
+}
+
+header h1{
+ margin-bottom: 0;
+ padding-top: 15px;
+ padding-bottom: 5px;
+ font-family:Segoe UI;
+ font-size:40px;
+ color:#333;
+}
+ /*"Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;*/
+header p{
+ margin-top: 15px;
+ font-family:Segoe UI;
+ color:#333;
+}
+
+section figure{
+ text-align: center;
+ padding-left: 15px;
+ padding-right: 15px;
+ padding-bottom: 5px;
+ background-color: white;
+}
+figure p{
+ color:#333;
+ font-family:Segoe UI;
+}
+section h2{
+ text-align:center;
+ padding-top: 50px;
+ padding-bottom:30px;
+ color:#333;
+ font-family:Segoe UI;
+ font-size:21px;
 }
 section ul{
-
+ padding-left:400px;
+ padding-right:400px
+ ;
 }
- footer{
-     background-color: #eeeeee;
-     margin:0;
- }
- 
- header h1  {
-     margin:0;
- }
- 
-  header h3  {
-     margin:0;
- }
- 
+section ul li{
+ font-family:Segoe UI;
+ color:#333;
+ padding-bottom:20px;
+}
+section blockquote{
+ padding-top:18px;
+ padding-left:360px;
+ padding-right:360px;
+}
+.quote{
+ font-family:Helvetica;
+ font-style:italic;
+ color:#333;
+ font-size:15px;
+}
+footer{
+ padding-bottom:38px;
+}
  footer h2{
-     margin:0;
+  color:#333;
+  font-family:Segoe UI;
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
